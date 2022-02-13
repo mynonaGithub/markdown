@@ -44,3 +44,4 @@ For more information on the available options, see [`cmark`](https://github.com/
 ```swift
 .package(url: "https://github.com/vapor-community/markdown.git", .upToNextMajor(from: "0.4.0"))
 ```
+.product(name: "SwiftMarkdown", package: "markdown")
